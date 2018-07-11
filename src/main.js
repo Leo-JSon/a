@@ -27,9 +27,9 @@ Vue.use(VueI18n);
 // Vue.prototype.host = "http://api.hlt.wxmarket.cn";
 // Vue.prototype.url = "http://hlt.wxmarket.cn/";
 
-Vue.prototype.host = "http://api.bcuae.pro";
-Vue.prototype.url="http://api.bcuae.pro/";
-Vue.prototype.myExtensionUrl='http://www.bcuae.pro/';
+Vue.prototype.host = "https://api.bcuae.pro";
+Vue.prototype.url="https://api.bcuae.pro/";
+Vue.prototype.myExtensionUrl='https://www.bcuae.pro/';
 
 // Vue.prototype.host = "http://api.focctest.io";
 // Vue.prototype.url="http://api.focctest.io/";
